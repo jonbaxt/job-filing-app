@@ -17,4 +17,14 @@ Columns: ID, JobTitle, URLListing, AppliedDate, AppliedTime, IsActive, CurrentOu
 JobUpdate Table
 Columsn: ID, UpdateType, UpdateDescription, UpdateDate, UpdateTime, CurrentOutcome, JobId, UserId
 
+## Components
+- App.js
+    - Main Component for Evertyhing
+- Header.js
+- Login.js
+- Dashboard.js
+- LeftScreen.js
+- MiddleScreen.js
+- RightScreen.js
+
 ## More Descriptions to Come Upon Further Development
